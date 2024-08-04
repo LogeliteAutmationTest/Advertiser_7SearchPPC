@@ -22,8 +22,8 @@ public class PageFactoryCampaignTest extends CommonMethod {
 		cp.enterPassword();
 		cp.clickLoginButton();
 		Thread.sleep(6000);
-		driver.navigate().refresh();
-
+//		driver.navigate().refresh();
+		Thread.sleep(6000);
 	}
 
 //#*****************************Campaign Page*****************************
