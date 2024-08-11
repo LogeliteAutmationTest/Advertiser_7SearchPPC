@@ -233,7 +233,7 @@ public class PageFactory_Master1_Admin_Test extends CommonMethod {
 			Thread.sleep(2000);
 			IH.ManagerADVCategoryFilter();
 			IH.ManagerADVCategoryDating();
-//				Thread.sleep(1000);
+				Thread.sleep(1000);
 //				IH.ManagerADVSearchButton();
 //				Thread.sleep(2000);
 //				IH.ManagerADVCategoryFilter();
