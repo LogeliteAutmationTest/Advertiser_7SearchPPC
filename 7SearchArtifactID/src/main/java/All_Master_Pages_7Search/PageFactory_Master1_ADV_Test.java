@@ -94,7 +94,7 @@ public class PageFactory_Master1_ADV_Test extends CommonMethod {
 
 //#***************************Text Ads*******************************
 	@Test
-	// (enabled = false)
+	(enabled = false)
 	public void CampaignTest3() throws Exception {
 
 		PageFactoryCampaignPage cp = PageFactory.initElements(driver, PageFactoryCampaignPage.class);
@@ -148,7 +148,7 @@ public class PageFactory_Master1_ADV_Test extends CommonMethod {
 //#***************************Banner Ads*******************************
 
 	@Test
-	// (enabled = false)
+	 (enabled = false)
 	public void CampaignTest4() throws Exception {
 
 		PageFactoryCampaignPage cp = PageFactory.initElements(driver, PageFactoryCampaignPage.class);
